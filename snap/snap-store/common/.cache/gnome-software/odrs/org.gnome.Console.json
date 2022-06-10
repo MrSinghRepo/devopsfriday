@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "org.gnome.Console",
+        "date_created": 1653555258.0,
+        "description": "Simple and easy to use, integrates well with the GNOME desktop and functions very well. Would recommend over gnome-terminal if you are using GNOME. \n\n",
+        "distro": "Fedora Linux",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_GB.utf8",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 490191,
+        "score": 31,
+        "summary": "Best terminal for GNOME",
+        "user_display": "coolkid",
+        "user_hash": "765ec2f0c36aa8511fd898b98b105a6c4a53a111",
+        "user_skey": "41aad42842fed14eaf177a8e979a85c840326ecd",
+        "version": "unknown"
+    },
+    {
+        "app_id": "org.gnome.Console",
+        "date_created": 1650465181.0,
+        "description": "Amazing for simple use. No unnecessary extra staff.",
+        "distro": "Arch Linux",
+        "karma_down": 1,
+        "karma_up": 4,
+        "locale": "en_IN",
+        "rating": 100,
+        "reported": 0,
+        "review_id": 479577,
+        "score": 17,
+        "summary": "Best simple terminal app ever",
+        "user_display": null,
+        "user_hash": "f5aa3af1f7eca465bc00c54fce2fcfe289ad7c7e",
+        "user_skey": "41aad42842fed14eaf177a8e979a85c840326ecd",
+        "version": "unknown"
+    }
+]
